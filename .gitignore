@@ -21,3 +21,9 @@ cypress/
 .talismanrc
 
 .vscode/
+
+venv_*/
+
+*.pyc
+
+*.stackdump
